@@ -37,4 +37,4 @@ python3 script.py
 
 # Example of output screenshot
 
-![student.webpress.kz](./stude.png)
+![student.webpress.kz](https://github.com/BiggyBaron/WebScreeny/raw/master/%EF%BB%BFstude.png)
