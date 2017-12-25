@@ -34,3 +34,7 @@ python3 script.py
 ```
 4. ???
 5. PROFIT! All your screens inside the folder.
+
+# Example of output screenshot
+
+![student.webpress.kz](stude.png)
