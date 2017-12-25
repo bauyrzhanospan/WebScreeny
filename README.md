@@ -1,6 +1,6 @@
 # WebScreeny
-Python app that automatically screenshots web pages given in the list.
-Приложение на Python для того, чтобы делать скрин вэб страниц в списке.
+## Python app that automatically screenshots web pages given in the list.  
+## Приложение на Python для того, чтобы делать скрин вэб страниц в списке.
 
 # Prerequisite
 
@@ -27,7 +27,7 @@ cd WebScreeny
 ```Shell
 nano 1.txt
 ```
-Then ctrl+x -> y -> enter
+Then ctrl+x -> y -> enter  
 3. Run script
 ```Shell
 python3 script.py
@@ -37,4 +37,4 @@ python3 script.py
 
 # Example of output screenshot
 
-![student.webpress.kz](stude.png)
+![student.webpress.kz](./stude.png)
